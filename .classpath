@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="cucumber-java-skeleton/src/test/java"/>
+	<classpathentry kind="lib" path="cucumber-java-skeleton/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/gherkin-2.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
